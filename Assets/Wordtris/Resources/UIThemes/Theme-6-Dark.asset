@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29b4c8618c44742cf95840c09431b646, type: 3}
+  m_Name: Theme-6-Dark
+  m_EditorClassIdentifier: 
+  colorTags:
+  - tagName: ConsentPrivacyButton
+    tagColor: {r: 0.3647059, g: 0.7607843, b: 1, a: 1}
+  - tagName: ConsentNoButton
+    tagColor: {r: 0.2627451, g: 0.34509805, b: 0.4, a: 1}
+  - tagName: HomeBG
+    tagColor: {r: 1, g: 1, b: 1, a: 1}
+  - tagName: HomeTitle
+    tagColor: {r: 1, g: 1, b: 1, a: 1}
+  - tagName: PanelButton
+    tagColor: {r: 0.16470589, g: 0.21176471, b: 0.32941177, a: 1}
+  - tagName: PopUpBG
+    tagColor: {r: 0.16470589, g: 0.21176471, b: 0.32941177, a: 1}
+  - tagName: PopUpTitle
+    tagColor: {r: 0.21960784, g: 0.67058825, b: 0.6117647, a: 1}
+  - tagName: PopUpButton
+    tagColor: {r: 0.16470589, g: 0.21176471, b: 0.32941177, a: 1}
+  - tagName: PopUpText
+    tagColor: {r: 1, g: 1, b: 1, a: 1}
+  - tagName: PopUpHightlightButton
+    tagColor: {r: 0.21960784, g: 0.67058825, b: 0.6117647, a: 1}
+  - tagName: SettingOptionImage
+    tagColor: {r: 1, g: 1, b: 1, a: 1}
+  - tagName: SettingOptionText
+    tagColor: {r: 1, g: 1, b: 1, a: 1}
+  - tagName: SettingOptionLine
+    tagColor: {r: 1, g: 1, b: 1, a: 1}
+  - tagName: DCDayBG
+    tagColor: {r: 0.11764706, g: 0.14901961, b: 0.24705882, a: 1}
+  - tagName: DCDesc
+    tagColor: {r: 1, g: 1, b: 1, a: 1}
+  - tagName: DCCollectBorder
+    tagColor: {r: 0.83921576, g: 0.2509804, b: 0.29411766, a: 1}
+  - tagName: DCReward
+    tagColor: {r: 1, g: 0.9372549, b: 0.4862745, a: 1}
+  - tagName: ShopIAPBG
+    tagColor: {r: 0.11764706, g: 0.14901961, b: 0.24705882, a: 1}
+  - tagName: ShopIAPButton
+    tagColor: {r: 0.17254902, g: 0.39607844, b: 0.6901961, a: 1}
+  - tagName: ShopIAPDesc
+    tagColor: {r: 1, g: 1, b: 1, a: 1}
+  - tagName: ShopIAPOffer
+    tagColor: {r: 1, g: 0.9372549, b: 0.4862745, a: 1}
+  - tagName: LanguageOptionImage
+    tagColor: {r: 1, g: 1, b: 1, a: 1}
+  - tagName: LanguageOptionText
+    tagColor: {r: 1, g: 1, b: 1, a: 1}
+  - tagName: LanguageOptionLine
+    tagColor: {r: 1, g: 1, b: 1, a: 1}
+  - tagName: GPBG
+    tagColor: {r: 1, g: 1, b: 1, a: 1}
+  - tagName: GPShapeContainer
+    tagColor: {r: 0.16078432, g: 0.19607843, b: 0.30980393, a: 1}
+  - tagName: GPScore
+    tagColor: {r: 1, g: 1, b: 1, a: 1}
+  - tagName: GPBestTrophy
+    tagColor: {r: 0.36862746, g: 0.44313726, b: 0.6901961, a: 1}
+  - tagName: GPBestScore
+    tagColor: {r: 0.36862746, g: 0.44313726, b: 0.6901961, a: 1}
+  - tagName: GPTimeProgress
+    tagColor: {r: 0.22745098, g: 0.2901961, b: 0.49019608, a: 1}
+  - tagName: GameOverBG
+    tagColor: {r: 0, g: 0, b: 0, a: 1}
+  - tagName: GameOverTitle
+    tagColor: {r: 0.6039216, g: 0.9607843, b: 0.35686275, a: 1}
+  - tagName: GameOverScore
+    tagColor: {r: 1, g: 1, b: 1, a: 1}
+  - tagName: GameOverReward
+    tagColor: {r: 1, g: 1, b: 1, a: 1}
+  - tagName: GameOverHome
+    tagColor: {r: 0.23529412, g: 0.7058824, b: 0.63529414, a: 1}
+  - tagName: GameOverReplay
+    tagColor: {r: 0.34117648, g: 0.50980395, b: 0.6431373, a: 1}
+  - tagName: UnlockThemeButton
+    tagColor: {r: 0.19607843, g: 0.5294118, b: 0.8039216, a: 1}
+  - tagName: ButtonColor
+    tagColor: {r: 1, g: 1, b: 1, a: 1}
+  spriteTags:
+  - tagName: b0
+    tagSprite: {fileID: 21300000, guid: 1cc02d374ac585e48b7fa6bf8b225d83, type: 3}
+  - tagName: b1
+    tagSprite: {fileID: 21300000, guid: 7ae4345d6c7539e4999aef36700299bf, type: 3}
+  - tagName: b2
+    tagSprite: {fileID: 21300000, guid: a06782eb4a9e08942804bc74ec94f695, type: 3}
+  - tagName: b3
+    tagSprite: {fileID: 21300000, guid: e526958061235f14a8aa78ad4f36a1d9, type: 3}
+  - tagName: b4
+    tagSprite: {fileID: 21300000, guid: 9611dc5170c12ee40b629edd22ab9cbe, type: 3}
+  - tagName: b5
+    tagSprite: {fileID: 21300000, guid: 18dec2cbf80e6f849b5168daae9dd740, type: 3}
+  - tagName: b6
+    tagSprite: {fileID: 21300000, guid: 27a57799545bce142b6a325cb4fcd82d, type: 3}
+  - tagName: b7
+    tagSprite: {fileID: 21300000, guid: 6659d6cb484c0704a82cdff15c83dc96, type: 3}
+  - tagName: b8
+    tagSprite: {fileID: 21300000, guid: f1891cf758177b04dbe0b29686b4854a, type: 3}
+  - tagName: b9
+    tagSprite: {fileID: 21300000, guid: 5bf061f133f176c43a57c35f17809b7e, type: 3}
+  - tagName: bdynamite
+    tagSprite: {fileID: 21300000, guid: f7e05144e9b891247a95a254bb905b75, type: 3}
+  - tagName: bbomb
+    tagSprite: {fileID: 21300000, guid: c022a5295b3d68841a8d5eee572a9477, type: 3}

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7497cead292ef4af0a4a6b066b97fe53, type: 3}
+  m_Name: UIThemeSettings
+  m_EditorClassIdentifier: 
+  useUIThemes: 1
+  defaultTheme: 6
+  allThemeConfigs:
+  - isEnabled: 0
+    themeName: Theme-0
+    demoSprite: {fileID: 21300000, guid: 149d068c30cbd44b28e1b516f456de85, type: 3}
+    uiTheme: {fileID: 0}
+    defaultStatus: 1
+    unlockCost: 0
+  - isEnabled: 0
+    themeName: Theme-1
+    demoSprite: {fileID: 21300000, guid: 338fee2609ff64ccdb2ee5631a52d9f6, type: 3}
+    uiTheme: {fileID: 0}
+    defaultStatus: 0
+    unlockCost: 100
+  - isEnabled: 0
+    themeName: Theme-2
+    demoSprite: {fileID: 21300000, guid: 80f262a4f44ac42cdb4d48e0fd488494, type: 3}
+    uiTheme: {fileID: 0}
+    defaultStatus: 0
+    unlockCost: 100
+  - isEnabled: 0
+    themeName: Theme-3
+    demoSprite: {fileID: 21300000, guid: 8aaa109b0d75348ef93f45b2c8c485e7, type: 3}
+    uiTheme: {fileID: 0}
+    defaultStatus: 0
+    unlockCost: 300
+  - isEnabled: 0
+    themeName: Theme-4
+    demoSprite: {fileID: 21300000, guid: 0e1884036fb6944ab9b37e05d60be0a1, type: 3}
+    uiTheme: {fileID: 0}
+    defaultStatus: 0
+    unlockCost: 300
+  - isEnabled: 0
+    themeName: Theme-5
+    demoSprite: {fileID: 21300000, guid: 18e089b71ee334eb6b6d6eb7723728bf, type: 3}
+    uiTheme: {fileID: 0}
+    defaultStatus: 0
+    unlockCost: 500
+  - isEnabled: 1
+    themeName: Theme-6
+    demoSprite: {fileID: 21300000, guid: c6b7a95f52ee84daa878343b1fc425d9, type: 3}
+    uiTheme: {fileID: 11400000, guid: 8b123ccaa5e234e5da8b5ced6adb25bb, type: 2}
+    defaultStatus: 1
+    unlockCost: 500
+  - isEnabled: 1
+    themeName: Theme-7
+    demoSprite: {fileID: 21300000, guid: 4001b438a506e4eca9eb8074d8160609, type: 3}
+    uiTheme: {fileID: 0}
+    defaultStatus: 0
+    unlockCost: 500
